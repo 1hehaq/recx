@@ -26,7 +26,7 @@
 `installation`
 
 ```bash
-go install github.com/1hehaq/recx
+go install github.com/1hehaq/recx@latest
 ```
 
 `or build from source`
